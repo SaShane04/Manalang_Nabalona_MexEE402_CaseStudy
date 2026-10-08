@@ -16,7 +16,7 @@ Batangas State University, Alangilan Campus
 ## Notebook links
 
 | Chapter | Notebook Link |
-|---|---|---|
+|---|---|
 | Ch1_2_3 | [link]() |
 | Ch4 | [link]() |
 | Ch5 | [link]() |
