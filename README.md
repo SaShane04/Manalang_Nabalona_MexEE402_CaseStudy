@@ -15,15 +15,15 @@ Batangas State University, Alangilan Campus
 
 ## Notebook links
 
-| Chapter | Member 1 | Member 2 |
+| Chapter | Notebook Link |
 |---|---|---|
-| Ch1_2_3 | [link]() | [link]() |
-| Ch4 | [link]() | [link]() |
-| Ch5 | [link]() | [link]() |
-| Ch6 | [link]() | [link]() |
-| Ch7 | [link]() | [link]() |
-| Ch8 | [link]() | [link]() |
-| Ch9 | [link]() | [link]() |
+| Ch1_2_3 | [link]() |
+| Ch4 | [link]() |
+| Ch5 | [link]() |
+| Ch6 | [link]() |
+| Ch7 | [link]() |
+| Ch8 | [link]() |
+| Ch9 | [link]() |
 
 ## What we learned
 
