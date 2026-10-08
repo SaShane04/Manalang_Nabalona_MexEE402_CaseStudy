@@ -38,15 +38,28 @@ Batangas State University, Alangilan Campus
 One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
 you and what surprised you. Not what the library does, but what you understood.
 
+#### Chapter 1_2_3
+
+#### Chapter 4
+
+#### Chapter 5
+
+#### Chapter 6
+
+#### Chapter 7
+
+#### Chapter 8
+
+#### Chapter 9
+
+
 ## Errors we found
 
-List any mistake you found in the original notebooks, and the correct version.
-There are real ones in there. Finding them earns points.
+N/A?
 
 ## Note on AI tools
 
-Say whether you used an AI tool, and what for. This is not a penalty.
-Hiding it is.
+We indeed used AI in making this "Data Preprocessing Case Study". We used Gemini and Claude for cross-checking our code from the vs codes to the colabs and making our READ_me better looking. Chatgpt was then used to enhanced our answers to the questions asked. 
 
 ## References
 
