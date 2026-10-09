@@ -31,7 +31,7 @@ Batangas State University, Alangilan Campus
 | Ch 6 | Dealing with Outliers | [Open in Colab](https://colab.research.google.com/drive/1CM0fKc1SucWkFmI4mPS4Gv2fxBEJsgMU?usp=drive_link) |
 | Ch 7 | Feature Selection | [Open in Colab](https://colab.research.google.com/drive/1hJxQ9zkOu0MmVG6OMwCrjG60zVPJAH-P?usp=drive_link) |
 | Ch 8 | Preprocessing Pipeline (Titanic) | [Open in Colab](https://colab.research.google.com/drive/1eg7rGtqDXdYt29Dagaj-Hq6PHoVVVEty?usp=drive_link) |
-| Ch 9 | Ch 9 | [Open in Colab](https://colab.research.google.com/drive/1jyNhfPufiExcVCfGzLWh5fyAyLs0oT4t?usp=drive_link) |
+| Ch 9 | Case Study | [Open in Colab](https://colab.research.google.com/drive/1jyNhfPufiExcVCfGzLWh5fyAyLs0oT4t?usp=drive_link) |
 
 ## 💡 What we learned
 
